@@ -1,0 +1,6 @@
+order_date,region,product,customer_id,revenue,orders
+2024-01-01,West,Product A,101,1200,1
+2024-01-02,East,Product B,102,800,1
+2024-01-03,West,Product C,103,1500,1
+2024-01-04,North,Product A,104,900,1
+2024-01-05,South,Product B,105,1100,1
